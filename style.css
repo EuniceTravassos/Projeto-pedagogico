@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+* {
+    margin: 0;
+    padding: 0; 
+ } 
+ 
+ body {
+ background-image: url(imagens/imagem1.png);
+ background-repeat: no-repeat; 
+ background-size: cover;
+ font-family: 'Poppins', sans-serif;
+ font-size: 35px;
+
+ }
+
+.navegacao ul li {
+    display:inline;
+    padding: 70px;
+    
+}
+
+.navegacao ul {
+    margin-left: 100px;
+    
+}
+
+.navegacao {
+    background-color: maroon;
+    padding: 10px;
+}
+
+.navegacao ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    
+    
+
+}
+
+.navegacao ul li a:hover{
+    color: black;
+}
+
+
+    
